@@ -1,6 +1,6 @@
 pragma solidity 0.5.2;
 
-contract HelloWordl{
+contract HelloWorld{
 	
 	string public text;
 	uint public number;
